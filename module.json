@@ -1,0 +1,13 @@
+{
+  "id": "no-modif-yebou",
+  "title": "No Modif Yebou",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "description": "Seul les MJs pourront modifier les fiches de personnage",
+  "esmodules": [
+    "./index.js"
+  ]
+}
