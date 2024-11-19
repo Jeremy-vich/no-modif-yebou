@@ -2,6 +2,7 @@
   "id": "no-modif-yebou",
   "title": "No Modif Yebou",
   "version": "1.0.0",
+  "author": "Jérémy Vich <Yebou>",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -10,4 +11,7 @@
   "esmodules": [
     "./index.js"
   ]
+  "url": "https://github.com/Jeremy-vich/no-modif-yebou",
+	"manifest": "https://github.com/cswendrowski/FoundryVTT-tabbed-chatlog/releases/download/latest/module.json",
+	"download": "https://github.com/cswendrowski/FoundryVTT-tabbed-chatlog/releases/download/1.6.3/module.zip"
 }
